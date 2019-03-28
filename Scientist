@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+	<meta charset="utf-8">
+	<title>Cientista de Software</title>
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+</head>
+<body class="fundoA">
+	<h1 class="cabecalho">Cientista de Software</h1>
+	<p>Uma visão ampla sobre os processos para construção de um software</p>
+</body>
+</html>
